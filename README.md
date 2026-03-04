@@ -44,7 +44,7 @@ GitHub, HubSpot, Clay, Meta Ads Manager, Google Ads
 
 | Project | Description | Tech |
 |---|---|---|
-| [Walmart Weekly Sales Forecasting](https://github.com/salmanshafi9898/Walmart-Weekly-Sales-Forecasting-U--Time-series) | End-to-end forecasting across 45 stores; OOS RMSE ≈ 8% of avg weekly sales | Python, R, Random Forest, SARIMAX |
+| [Walmart Weekly Sales Forecasting](https://github.com/salmanshafi9898/Walmart-Weekly-Sales-Forecasting-Using-ML-And-Time-series) | End-to-end forecasting across 45 stores; OOS RMSE ≈ 8% of avg weekly sales | Python, R, Random Forest, SARIMAX |
 | [Dementia Classification from Brain MRI](https://github.com/salmanshafi9898/Classifying-Dementia-Severity-from-Brain-MRI-Using-Deep-Learning.) | Patient-level CNN pipeline on ~80K MRI slices; 91.6% weighted accuracy | PyTorch, ResNet |
 | [Modern SQL Data Warehouse](https://github.com/salmanshafi9898/sql-data-warehouse-project) | Medallion Architecture with Star Schema for scalable ERP/CRM analytics | SQL Server, T-SQL |
 | [Retail Investor Sentiment Analysis](https://github.com/salmanshafi9898/Examining-Retail-Investor-Sentiment-and-Behaviour-) | Analyzed 50K Reddit comments; 58.5% negative speculative sentiment identified | Python, NLP, LDA, PyTorch |
